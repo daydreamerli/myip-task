@@ -1,3 +1,8 @@
+# Simple ReactApp shows visitor public IP Address
+
+This project was created for Greenpeace's technical task using create-react-app.
+Using a public API fectching visitor's public IP Address, if public IP was not found return a string.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
